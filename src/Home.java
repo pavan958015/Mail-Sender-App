@@ -291,7 +291,7 @@ public class Home extends javax.swing.JFrame {
             
             Transport.send(m);
             System.out.println("Success...");
-            JOptionPane.showMessageDialog(null, "Message send successfully");
+            JOptionPane.showMessageDialog(null, "Message send successfully Done");
             
             
         }catch(Exception e){
