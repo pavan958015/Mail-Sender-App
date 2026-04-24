@@ -11,7 +11,7 @@ A Java Swing based Email Sender Application using JavaMail API.
 - Java 8+
 - mail.jar
 - activation.jar
-- Gmail App Password
+- Gmail App Password which will provide by the google API 
 
 ## Run
 Run MailSenderUI.java
